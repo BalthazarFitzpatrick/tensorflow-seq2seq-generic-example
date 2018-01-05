@@ -1,5 +1,5 @@
 # tensorflow-seq2seq-generic-example
-Repository to share my tensorflow seq2seq code for troubleshooting and debugging
+repository to share my tensorflow seq2seq code for troubleshooting and debugging
 
 # dependencies
 jupyter notebook
