@@ -3,7 +3,9 @@ Repository to share iPython notebooks for troubleshooting and debugging
 
 # dependencies
 jupyter notebook
+
 numpy
+
 tensorflow v1.4.1
 
 # problem at hand
