@@ -1,5 +1,5 @@
 # tensorflow-seq2seq-generic-example
-repository to share my tensorflow seq2seq code for troubleshooting and debugging
+my humble first steps with tensorflow's sequence to sequence architecture for numerical time series forecasting. input and output sequences and number of features may differ, i.e.: 500 time steps in, 100 time steps out, 10 features in, 1 features out.
 
 # dependencies
 jupyter notebook
@@ -7,6 +7,3 @@ jupyter notebook
 numpy
 
 tensorflow v1.4.1
-
-# problem at hand
-the logits shape seems to be multiplied by the number of units in the lstm cells
